@@ -1,4 +1,3 @@
-```markdown
 # Лабораторная работа №3: Фреймы в оконных функциях
 
 ## Исходные данные
@@ -185,4 +184,3 @@ INSERT INTO employees (id, name, city, department, salary) VALUES
 Сотрудники в отделе отсортированы по убыванию зарплаты. Все числовые результаты округлите до 2 знаков.
 
 **Ожидаемый вывод содержит колонки:** department, name, salary, prev_salary, next_salary, diff_from_window_avg, percent_of_max
-```
